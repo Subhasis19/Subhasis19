@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhasis Samantasinghar</h1>
-<h3 align="center">Hello, I'm Subhasis Samantasinghar 👋 A passionate developer from India. Welcome to my GitHub profile! I'm passionate about full-stack development, cloud technologies and data analytics and you'll find a variety of projects here that reflect my skills and interests.</h3>
+<h3 align="center"> A passionate developer from India. Welcome to my GitHub profile! I'm passionate about full-stack development, cloud technologies and data analytics and you'll find a variety of projects here that reflect my skills and interests.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
